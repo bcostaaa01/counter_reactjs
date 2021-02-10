@@ -6,4 +6,4 @@ You can increase, decrease or reset the counter.
 
 Happy coding!
 
-Deployed project: https://130nd.csb.app/
+
